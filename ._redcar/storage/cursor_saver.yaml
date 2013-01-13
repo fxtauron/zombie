@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: spec/spec_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-10 20:14:02.887000 +01:00
+  - :path: Gemfile
+    :cursor_offset: 492
+    :timestamp: 2013-01-10 20:13:37.919000 +01:00
+  - :path: spec/lib/zombie_spec.rb
+    :cursor_offset: 118
+    :timestamp: 2013-01-10 20:34:27.015000 +01:00
+  - :path: spec/lib/zombie.rb
+    :cursor_offset: 110
+    :timestamp: 2013-01-10 20:35:01.892000 +01:00
+files_to_retain: 0

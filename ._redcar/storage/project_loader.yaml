@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - spec/lib/zombie_spec.rb
+  - spec/lib/zombie.rb

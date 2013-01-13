@@ -1,0 +1,12 @@
+1358115052
+Application	C:/Sites/zombie/config/application.rb	  class Application 
+ApplicationController	C:/Sites/zombie/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/zombie/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/zombie/test/performance/browsing_test.rb	class BrowsingTest 
+TestCase	C:/Sites/zombie/test/test_helper.rb	class ActiveSupport::TestCase
+Zombie	C:/Sites/zombie/config/application.rb	module Zombie
+Zombie	C:/Sites/zombie/spec/lib/zombie.rb	class Zombie
+brains	C:/Sites/zombie/spec/lib/zombie.rb	  attr_accessor :name, :brains
+initialize	C:/Sites/zombie/spec/lib/zombie.rb	  def initialize
+name	C:/Sites/zombie/spec/lib/zombie.rb	  attr_accessor :name, :brains
+test_homepage	C:/Sites/zombie/test/performance/browsing_test.rb	  def test_homepage
